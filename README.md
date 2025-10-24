@@ -3,8 +3,6 @@
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** – 3º semestre no **Centro Universitário Senac**  
 🐝 Aluno do **Programadores do Amanhã** | 💙 Integrante do **Instituto PROA**
 
----
-
 ## 🌱 Sobre mim
 
 Sou apaixonado por **lógica, matemática e tecnologia**.  
@@ -12,6 +10,12 @@ Atualmente, estou desenvolvendo minhas habilidades técnicas e comportamentais c
 
 Tenho grande interesse em **desenvolvimento de software**, com foco em criar **soluções eficientes, funcionais e bem estruturadas**.  
 Além disso, valorizo a **comunicação** e o **trabalho em equipe**, habilidades que busco aprimorar constantemente e aplico tanto nos estudos quanto em **atividades esportivas**, que me ajudam a manter disciplina e equilíbrio no dia a dia.
+
+## 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/)  
+
+- 📧 **E-mail:** jefersonalvessantos62@gmail.com 
 
 ## 🚀 Tecnologias e Ferramentas  
 
