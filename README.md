@@ -13,7 +13,7 @@ Além disso, valorizo a **comunicação** e o **trabalho em equipe**, habilidade
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefersonalves-/)  
 
 - 📧 **E-mail:** jefersonalvessantos62@gmail.com 
 
