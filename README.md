@@ -1,7 +1,7 @@
 # 👋 Olá, meu nome é Jeferson Alves Santos
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** – 3º semestre no **Centro Universitário Senac**  
-🐝 Aluno do **Programadores do Amanhã** | 💙 Integrante do **Instituto PROA**
+🐝 Aluno do **Programadores do Amanhã** | 💙 Ex-Proano
 
 ## 🌱 Sobre mim
 
